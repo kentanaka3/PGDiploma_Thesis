@@ -1,0 +1,5 @@
+doc/*
+data/*
+!.gitignore
+!/doc/pres.pdf
+!/doc/doc.pdf
